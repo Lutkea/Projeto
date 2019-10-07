@@ -29,4 +29,7 @@ public class ArquivoDeTexto {
          lista.forEach(a -> System.out.println(Arrays.toString(a)));
         
     }
+    SelectionSort classe = new SelectionSort();
+
+    classe.metodoQueVoceQuerChamar();
 }
