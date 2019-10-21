@@ -2,12 +2,9 @@ public class Exercicio01h {
 
 public static void main(String[] args) {
      
-    int valor = 35;
-    int resultado;
+    int valor = 20;
     
-    resultado = valor/2;
-    
-    if (resultado == 0) {
+    if (valor % 2==0) {
 
     System.out.println("é par");
     }else {
