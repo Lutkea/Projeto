@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio01K",
+            "request": "launch",
+            "mainClass": "Exercicio01K"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exercicio01k",
+            "request": "launch",
+            "mainClass": "exercicio01k"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio01h",
+            "request": "launch",
+            "mainClass": "Exercicio01h"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio01k",
+            "request": "launch",
+            "mainClass": "Exercicio01k"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio01e",
+            "request": "launch",
+            "mainClass": "Exercicio01e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exercicio01e",
+            "request": "launch",
+            "mainClass": "exercicio01e"
+        }
+    ]
+}
