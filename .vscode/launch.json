@@ -2,6 +2,124 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - lista023",
+            "request": "launch",
+            "mainClass": "Exercicios2.lista023",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista210",
+            "request": "launch",
+            "mainClass": "Exercicios2.lista210",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista029",
+            "request": "launch",
+            "mainClass": "Exercicios2.lista029",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista028",
+            "request": "launch",
+            "mainClass": "Exercicios2.lista028",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista027",
+            "request": "launch",
+            "mainClass": "Exercicios2.lista027",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista026",
+            "request": "launch",
+            "mainClass": "Exercicios2.lista026",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista025",
+            "request": "launch",
+            "mainClass": "Exercicios2.lista025",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista024",
+            "request": "launch",
+            "mainClass": "Exercicios2.lista024",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista024",
+            "request": "launch",
+            "mainClass": "lista024",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArquivoDeTexto",
+            "request": "launch",
+            "mainClass": "ArquivoDeTexto"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio01j",
+            "request": "launch",
+            "mainClass": "Exercicio01j"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista022",
+            "request": "launch",
+            "mainClass": "lista022"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teste",
+            "request": "launch",
+            "mainClass": "Teste"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista021",
+            "request": "launch",
+            "mainClass": "projeto.Exercicio2.lista021"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exercicio01g",
+            "request": "launch",
+            "mainClass": "Exercicio01g"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista021",
+            "request": "launch",
+            "mainClass": "lista021"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Exercicio01b",
             "request": "launch",
             "mainClass": "Exercicio01b"
