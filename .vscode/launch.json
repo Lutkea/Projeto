@@ -2,6 +2,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - lista039",
+            "request": "launch",
+            "mainClass": "Exercicios3.lista039",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista037",
+            "request": "launch",
+            "mainClass": "Exercicios3.lista037",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista036",
+            "request": "launch",
+            "mainClass": "Exercicios3.lista036",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista035",
+            "request": "launch",
+            "mainClass": "Exercicios3.lista035",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista034",
+            "request": "launch",
+            "mainClass": "Exercicios3.lista034",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista021",
+            "request": "launch",
+            "mainClass": "Exercicios2.lista021",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista033",
+            "request": "launch",
+            "mainClass": "Exercicios3.lista033",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista032",
+            "request": "launch",
+            "mainClass": "Exercicios3.lista032",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista031",
+            "request": "launch",
+            "mainClass": "Exercicios3.lista031",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lista031",
+            "request": "launch",
+            "mainClass": "lista031",
+            "projectName": "Projeto_4ea8832b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - lista023",
             "request": "launch",
             "mainClass": "Exercicios2.lista023",
